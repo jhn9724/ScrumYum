@@ -1,0 +1,95 @@
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.btn-primary{
+    margin: 5px;
+    background-color: darkorange;
+    border-color: orange;
+}
+
+/* start of index page */
+.searchbanner{
+    background-image: url("/group5-roughdraft/images/searchbanner.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 100px 30px 200px 30px;
+}
+.cool{
+    margin-top: 100px;
+    position: absolute;
+    color: whitesmoke;
+    background: rgba(202, 186, 168, 0.5);
+    font-size: 30px;
+
+}
+
+.d-flex{
+    background-color: white;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    margin: 50px;
+
+}
+
+.carousel-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.carousel-item div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+
+.carousel-indicators button {
+  width: 200px !important;
+}
+
+.title2{
+    text-align: center;
+    font-size: 50px;
+    margin: 140px 50px 50px 50px;
+}
+
+.carousel {
+    margin: 0px 100px;
+}
+
+.carousel img{
+    max-height: 850px; 
+}
+
+.carousel-caption h5{
+    font-size: 30px;
+    
+}
+/* end of index page */
+
+
+/*start of about us page*/
+.aboutusglobal{
+    font-size: 20px;
+}
+.aboutussummary{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.membergallery{
+    margin-top: 50px;
+}
+.joinourcommunity{
+    margin-top: 50px;
+}
+/*end of about us page*/
+
