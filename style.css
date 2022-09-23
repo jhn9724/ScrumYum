@@ -12,7 +12,7 @@ h1{
 
 /* start of index page */
 .searchbanner{
-    background-image: url("/group5-roughdraft/images/searchbanner.jpg");
+    background-image: url("images/searchbanner.jpg");
     background-position: center;
     background-size: cover;
     padding: 100px 30px 200px 30px;
