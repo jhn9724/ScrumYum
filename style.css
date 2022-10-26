@@ -77,19 +77,22 @@ h1{
 
 
 /*start of about us page*/
-.aboutusglobal{
-    font-size: 20px;
-}
 .aboutussummary{
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size: 20px;
+
 }
 
 .membergallery{
     margin-top: 50px;
+    font-size: 20px;
+
 }
 .joinourcommunity{
     margin-top: 50px;
+    font-size: 20px;
+
 }
 /*end of about us page*/
 
