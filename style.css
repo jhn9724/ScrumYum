@@ -12,7 +12,7 @@ h1{
 
 /* start of index page */
 .searchbanner{
-    background-image: url("/group5-roughdraft/images/searchbanner.jpg");
+    background-image: url("images/banermain3.jpg");
     background-position: center;
     background-size: cover;
     padding: 100px 30px 200px 30px;
@@ -20,8 +20,9 @@ h1{
 .cool{
     margin-top: 100px;
     position: absolute;
-    color: whitesmoke;
-    background: rgba(202, 186, 168, 0.5);
+    background-color: rgb(252, 248, 244);
+    color:rgb(138, 65, 17);
+    
     font-size: 30px;
 
 }
@@ -92,4 +93,5 @@ h1{
     margin-top: 50px;
 }
 /*end of about us page*/
+
 
